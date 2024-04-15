@@ -42,10 +42,11 @@ streamlit run /Home.py
 ## Credits
 The initial codebase is inspired from the following tutorials, I highly recommend you to check out awesome developers behind these tutorials and resources:
 
-1. <a href = "https://www.youtube.com/@alejandro_ao">Alejandro AO - Software & Ai</a> : <a href = "https://youtu.be/dXxQ0LR-3Hg">Tutorial Link</a>
-2. <a href = "https://www.youtube.com/@tonykipkemboi">The How-To Guy</a> : <a href = "https://youtu.be/ztBJqzBU5kc">Tutorial Link</a>
-3. <a href = "https://ollama.com/">Ollama</a> : For good repo of models which can be downloaded locally.
+1. <a href = "https://www.youtube.com/@alejandro_ao">Alejandro AO - Software & Ai</a>: <a href = "https://youtu.be/dXxQ0LR-3Hg">Tutorial Link</a>
+2. <a href = "https://www.youtube.com/@tonykipkemboi">The How-To Guy</a>: <a href = "https://youtu.be/ztBJqzBU5kc">Tutorial Link</a>
+3. <a href = "https://ollama.com/">Ollama</a>: For good repo of models which can be downloaded locally.
 4. <a href = "https://www.langchain.com/">Langchain</a>: For their AI framework for RAG based applications.
+5. <a href = "https://www.trychroma.com/">Chroma DB</a>: For vector database support for applications.
 
 ## Contribution
 The codebase is free for use and play around with and open to any contribution.

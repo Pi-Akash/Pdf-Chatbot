@@ -1,0 +1,16 @@
+# To ensure app dependencies are ported from your virtual environment/host machine into your container, run 'pip freeze > requirements.txt' in the terminal to overwrite this file
+groq
+streamlit
+PyPDF2
+langchain
+unstructured
+pdf2image
+pdfminer.six
+pillow_heif
+opencv-python
+unstructured-inference
+unstructured.pytesseract
+pytesseract
+pikepdf
+chromadb
+streamlit-chat

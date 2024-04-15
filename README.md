@@ -1,6 +1,8 @@
 # Pdf-Chatbot
 A complete Local RAG app which helps you converse with pdf files.
 
+<img src = "App UI.png"></img>
+
 ## Introduction
 This is a local RAG application which helps you converse with a pdf file. Idea is to have a bot which can answer questions using information from pdf file as context and provide responses to user in english language. 
 
